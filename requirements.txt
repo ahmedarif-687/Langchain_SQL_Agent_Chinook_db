@@ -1,0 +1,12 @@
+# LangChain + Gemini
+langchain>=0.2.16
+langchain-community>=0.3.27
+langchain-google-genai>=2.1.0
+
+# DB & utils
+SQLAlchemy>=2.0.30
+python-dotenv>=1.0.1
+rich>=13.7.1
+
+# For fetch_chinook.py (download Chinook SQL)
+requests>=2.31.0
